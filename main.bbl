@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{erfani2016high}
+S.~M. Erfani, S.~Rajasegarar, S.~Karunasekera, and C.~Leckie,
+  ``High-dimensional and large-scale anomaly detection using a linear one-class
+  svm with deep learning,'' {\em Pattern Recognition}, vol.~58, pp.~121--134,
+  2016.
+
+\bibitem{tax2004support}
+D.~M. Tax and R.~P. Duin, ``Support vector data description,'' {\em Machine
+  learning}, vol.~54, no.~1, pp.~45--66, 2004.
+
+\bibitem{scholkopf2001estimating}
+B.~Sch{\"o}lkopf, J.~C. Platt, J.~Shawe-Taylor, A.~J. Smola, and R.~C.
+  Williamson, ``Estimating the support of a high-dimensional distribution,''
+  {\em Neural computation}, vol.~13, no.~7, pp.~1443--1471, 2001.
+
+\end{thebibliography}
